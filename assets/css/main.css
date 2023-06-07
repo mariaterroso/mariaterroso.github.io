@@ -228,8 +228,28 @@ button:focus {
   background: #1260A2;
 }
 
-.social-icon li .google:hover {
+.social-icon li .youtube:hover {
   background: #CE332A;
+}
+
+.social-icon li .pinterest:hover {
+  background: #CE332A;
+}
+
+.social-icon li .behance:hover {
+  background: #0076d7;
+}
+
+.social-icon li .vimeo:hover {
+  background: #0076d7;
+}
+
+.social-icon li .tiktok:hover {
+  background: #000000;
+}
+
+.social-icon li .linktree:hover {
+  background: #1df361;
 }
 
 /* ScrollToTop */
@@ -663,7 +683,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 3. Hero Area
 ========================================================================== */
 .hero-area-bg {
-  background: url(../img/hero-area.jpg) no-repeat;
+  background: url(../img/capa.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -679,7 +699,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: #0c0808;
+  background: #0c08086c;
   opacity: 0.6;
 }
 
